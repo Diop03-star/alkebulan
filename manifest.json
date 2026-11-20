@@ -1,0 +1,20 @@
+{
+  "name": "Alkebulan",
+  "short_name": "Alkebulan",
+  "description": "Le voyage à travers l'histoire de l'Afrique, royaume après royaume, du Djolof au Kongo.",
+  "lang": "fr",
+  "start_url": "/alkebulan/",
+  "scope": "/alkebulan/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4E4C9",
+  "theme_color": "#8B2E0F",
+  "icons": [
+    {
+      "src": "/alkebulan/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
